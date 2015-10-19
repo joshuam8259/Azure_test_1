@@ -12,7 +12,7 @@ $name = "Edgar";
         print "I know you!";
     }
     else {
-        print "who are you?";
+        print "Who are you?";
     }
     ?>
 </p>
