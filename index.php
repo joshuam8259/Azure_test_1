@@ -15,7 +15,7 @@
 
 
     if($myage < 16){
-        print "You are to young";
+        print "You are to young to buy anything ";
     }
     elseif ($myage < 18){
         print "you can buy specs";
