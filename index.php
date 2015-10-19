@@ -8,10 +8,10 @@
     $name = "Edgar";
     $myage = 15;
 
-    echo "test test test test test \n";
+    echo "test test test test test";
 
 
-    echo "the user name is " . $name . " and is " . $myage . " years old ";
+    echo "\nthe user name is " . $name . " and is " . $myage . " years old ";
 
 
     if($myage < 16){
