@@ -6,7 +6,7 @@
 <p>
     <?php
     $name = "Edgar";
-    $myage = 16;
+    $myage = 15;
 
     echo "test test test test test ";
     echo "the user name is " . $name . "and is " . $myage . "years old";
