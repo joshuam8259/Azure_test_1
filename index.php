@@ -8,8 +8,10 @@
     $name = "Edgar";
     $myage = 15;
 
-    echo "test test test test test ";
-    echo "the user name is " . $name . "and is " . $myage . "years old";
+    echo "test test test test test \n";
+
+
+    echo "the user name is " . $name . " and is " . $myage . " years old ";
 
 
     if($myage < 16){
@@ -25,7 +27,7 @@
     elseif ($myage >= 21){
         print "you can buy specs,mugs and sasuage rolls ";
     }
-    
+
 
 
 
