@@ -6,9 +6,9 @@
 <p>
     <?php
     echo "test test test test test ";
-    echo "the user namme is " . $name ;
+    echo "the user name is " . $name . "and is " . $myage . "years old";
 $name = "Edgar";
-    $myage = 18;
+    $myage = 16;
 
     if($myage < 16){
         print "You are to young";
