@@ -14,6 +14,8 @@ $name = "Edgar";
     else {
         print "Who are you?";
     }
+    echo "the user namme is " . $name ;
+
     ?>
 </p>
 </body>
