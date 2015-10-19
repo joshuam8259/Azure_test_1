@@ -14,7 +14,7 @@
 </html>
 
 
-/**
+/*
  * Created by PhpStorm.
  * User: 1303721
  * Date: 19/10/2015
