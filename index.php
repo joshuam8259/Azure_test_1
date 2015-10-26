@@ -32,6 +32,9 @@
 
 
     ?>
+<p><a href="http://jm1234.azurewebsites.net/helloprinter.php?query=Earth">Earth</a></p>
+<p><a href="http://jm1234.azurewebsites.net/helloprinter.php?query=Mars"></a>Mars</p>
+<p><a href="http://jm1234.azurewebsites.net/helloprinter.php?query=Uranus"></a>Uranus</p>
 </p>
 </body>
 
