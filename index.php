@@ -8,7 +8,7 @@
     $name = "Edgar";
     $myage = 15;
 
-    echo "test test test test test";
+    echo "change of text to see if it is still working";
 
 
     echo "\nthe user name is " . $name . " and is " . $myage . " years old ";
