@@ -6,7 +6,7 @@
 <p>
     <?php
     $name = "Edgar";
-    $myage = 99;
+    $myage = 20;
 
     echo "change of text to see if it is still working";
 
